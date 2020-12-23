@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ksmil\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ksmil\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_BudgetCalculation.1562527601.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ksmil\source\repos\BudgetCalculation" t="IncludeFlat">
+      <e p="BudgetCalculation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BudgetCalculation.csproj" t="IncludeRecursive" />
+        <e p="Buyer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BudgetCalculation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Payer.cs" t="Include" />
+        <e p="People.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Purchase.cs" t="Include" />
+        <e p="StringExtension.cs" t="Include" />
+      </e>
+      <e p="BudgetCalculation.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

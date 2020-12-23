@@ -1,0 +1,3 @@
+{"TotalParticipantCost":0.0,"Name":"П","Debt":76.67,"NumberOfPurchses":1}
+{"TotalParticipantCost":0.0,"Name":"М","Debt":43.33,"NumberOfPurchses":1}
+{"TotalParticipantCost":0.0,"Name":"Л","Debt":100.0,"NumberOfPurchses":1}

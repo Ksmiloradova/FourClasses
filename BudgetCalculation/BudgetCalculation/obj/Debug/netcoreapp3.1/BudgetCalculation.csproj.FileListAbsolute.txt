@@ -1,0 +1,15 @@
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.exe
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.deps.json
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.runtimeconfig.json
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.runtimeconfig.dev.json
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.dll
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\BudgetCalculation.pdb
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.csprojAssemblyReference.cache
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.AssemblyInfoInputs.cache
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.AssemblyInfo.cs
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.dll
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.pdb
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.genruntimeconfig.cache
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.csproj.CoreCompileInputs.cache
+C:\Users\ksmil\source\repos\BudgetCalculation\BudgetCalculation\obj\Debug\netcoreapp3.1\BudgetCalculation.csproj.CopyComplete

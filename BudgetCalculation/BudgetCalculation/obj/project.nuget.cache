@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMXMb6q/CmOEnmk6wNSpmtUvMIP9Bh4kiw2tUxz5Yx58JphIeZW8ghaD/94JGG62hA9bIx52N4S/YxTg6eHPVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksmil\\source\\repos\\BudgetCalculation\\BudgetCalculation\\BudgetCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksmil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

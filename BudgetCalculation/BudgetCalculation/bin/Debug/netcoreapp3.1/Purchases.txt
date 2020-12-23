@@ -1,0 +1,3 @@
+{"Title":"б","Price":100.0}
+{"Title":"т","Price":200.0}
+{"Title":"ж","Price":30.0}
